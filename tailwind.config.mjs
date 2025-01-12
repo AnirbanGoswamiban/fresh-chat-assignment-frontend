@@ -10,6 +10,9 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: "#4CAF50", // Replace with color from the PDF
+        secondary: "#F5F5F5", // Replace with color from the PDF
+        accent: "#FF9800", // Replace with color from the PDF
       },
     },
   },
